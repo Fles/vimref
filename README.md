@@ -1,3 +1,3 @@
-**[Commands](./commands.md)**<br>
+**[Commands](./commands.md)**
 
-**[Links](./links.md)**<br>
+**[Links](./links.md)**
